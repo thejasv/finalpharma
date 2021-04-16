@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MedicalStockModule", "MedicalStockModule.csproj", "{FC779029-7606-4AAC-9233-A256A19FCBCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedicineStockModuleTest", "..\MedicineStockModuleTest\MedicineStockModuleTest.csproj", "{A7414576-0D8F-4435-964B-1A969E38FB73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC779029-7606-4AAC-9233-A256A19FCBCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC779029-7606-4AAC-9233-A256A19FCBCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC779029-7606-4AAC-9233-A256A19FCBCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC779029-7606-4AAC-9233-A256A19FCBCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7414576-0D8F-4435-964B-1A969E38FB73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7414576-0D8F-4435-964B-1A969E38FB73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7414576-0D8F-4435-964B-1A969E38FB73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7414576-0D8F-4435-964B-1A969E38FB73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43E7FE63-1EFD-4082-A53F-DCA8EEAA8705}
+	EndGlobalSection
+EndGlobal

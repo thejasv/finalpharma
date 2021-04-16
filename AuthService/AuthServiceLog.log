@@ -1,0 +1,15 @@
+INFO  06:42:42 Application started. Press Ctrl+C to shut down.
+INFO  06:42:42 Hosting environment: Development
+INFO  06:42:42 Content root path: D:\safe\AuthService
+INFO  06:42:59 Credentials of user : 'Ram' Received
+INFO  06:43:00 User : 'Ram' is valid and token returned
+INFO  05:31:34 Application started. Press Ctrl+C to shut down.
+INFO  05:31:34 Hosting environment: Development
+INFO  05:31:34 Content root path: D:\safe\AuthService
+INFO  05:33:30 Credentials of user : 'Ram' Received
+INFO  05:33:30 User : 'Ram' is valid and token returned
+INFO  05:46:48 Application started. Press Ctrl+C to shut down.
+INFO  05:46:48 Hosting environment: Development
+INFO  05:46:48 Content root path: D:\safe\AuthService
+INFO  05:47:19 Credentials of user : 'Ram' Received
+INFO  05:47:19 User : 'Ram' is valid and token returned

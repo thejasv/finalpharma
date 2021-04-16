@@ -1,0 +1,101 @@
+INFO  06:42:49 Application started. Press Ctrl+C to shut down.
+INFO  06:42:49 Hosting environment: Development
+INFO  06:42:49 Content root path: D:\safe\PharmacySupplyApp
+INFO  06:42:49 token not found
+INFO  06:42:49 Displaying Login Page
+INFO  06:43:00 success response received
+INFO  06:43:00 Displaying Home Page
+INFO  06:43:02 Logging out user : Ram
+INFO  05:31:43 Application started. Press Ctrl+C to shut down.
+INFO  05:31:43 Hosting environment: Development
+INFO  05:31:43 Content root path: D:\safe\PharmacySupplyApp
+INFO  05:31:43 token not found
+INFO  05:31:43 Displaying Login Page
+INFO  05:33:30 success response received
+INFO  05:33:30 Displaying Home Page
+INFO  05:34:05 Displaying Index page of Scheduling
+INFO  05:35:10 Displaying Home Page
+INFO  05:35:11 Displaying Index page of Scheduling
+INFO  05:35:14 response received
+INFO  05:35:14 Adding schedule to database
+INFO  05:35:16 Adding schedule to database
+INFO  05:35:16 Adding schedule to database
+INFO  05:35:16 Adding schedule to database
+INFO  05:35:16 Adding schedule to database
+INFO  05:35:37 Displaying Home Page
+INFO  05:35:39 Displaying Index page of Scheduling
+INFO  05:35:45 response received
+INFO  05:35:46 Adding schedule to database
+INFO  05:35:46 Adding schedule to database
+INFO  05:35:46 Adding schedule to database
+INFO  05:35:46 Adding schedule to database
+INFO  05:35:46 Adding schedule to database
+INFO  05:36:25 Displaying Home Page
+INFO  05:36:27 Displaying Schedule input page
+INFO  05:36:27 response received
+INFO  05:36:27 stock received
+INFO  05:36:27 stock converted to demand
+INFO  05:37:34 response received
+INFO  05:37:34 Supply received
+INFO  05:37:34 Displaying Supply List
+INFO  05:37:34 Adding supplies to database
+INFO  05:37:34 Adding supplies to database
+INFO  05:37:34 Adding supplies to database
+INFO  05:37:34 Adding supplies to database
+INFO  05:37:34 Adding supplies to database
+INFO  05:37:34 Adding supplies to database
+INFO  05:37:34 Adding supplies to database
+INFO  05:37:34 Adding supplies to database
+INFO  05:37:34 Adding supplies to database
+INFO  05:37:34 Adding supplies to database
+INFO  05:37:34 Adding supplies to database
+INFO  05:37:34 Adding supplies to database
+INFO  05:38:24 Displaying Home Page
+INFO  05:38:26 Displaying Schedule input page
+INFO  05:38:26 response received
+INFO  05:38:26 stock received
+INFO  05:38:26 stock converted to demand
+INFO  05:39:22 response received
+ERROR 05:39:22 error while getting supply
+INFO  05:40:07 Displaying Home Page
+INFO  05:40:12 Displaying Schedule input page
+INFO  05:40:12 response received
+INFO  05:40:12 stock received
+INFO  05:40:12 stock converted to demand
+INFO  05:40:17 response received
+INFO  05:40:17 Supply received
+INFO  05:40:17 Displaying Supply List
+INFO  05:40:17 Adding supplies to database
+INFO  05:40:17 Adding supplies to database
+INFO  05:40:17 Adding supplies to database
+INFO  05:40:25 Displaying Home Page
+INFO  05:40:27 Displaying Schedule input page
+INFO  05:40:27 response received
+INFO  05:40:27 stock received
+INFO  05:40:27 stock converted to demand
+INFO  05:41:20 response received
+INFO  05:41:20 Supply received
+INFO  05:41:20 Displaying Supply List
+INFO  05:41:20 Adding supplies to database
+INFO  05:41:20 Adding supplies to database
+INFO  05:41:20 Adding supplies to database
+INFO  05:41:20 Adding supplies to database
+INFO  05:41:20 Adding supplies to database
+INFO  05:41:20 Adding supplies to database
+INFO  05:42:26 Displaying Home Page
+INFO  05:42:30 Logging out user : Ram
+INFO  05:43:30 Displaying Login Page
+INFO  05:47:05 Application started. Press Ctrl+C to shut down.
+INFO  05:47:05 Hosting environment: Development
+INFO  05:47:05 Content root path: D:\safe\PharmacySupplyApp
+INFO  05:47:05 token not found
+INFO  05:47:05 Displaying Login Page
+INFO  05:47:19 success response received
+INFO  05:47:19 Displaying Home Page
+INFO  05:47:21 Displaying Index page of Scheduling
+INFO  05:47:24 response received
+INFO  05:47:24 Adding schedule to database
+INFO  05:47:26 Adding schedule to database
+INFO  05:47:26 Adding schedule to database
+INFO  05:47:26 Adding schedule to database
+INFO  05:47:26 Adding schedule to database
